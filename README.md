@@ -79,5 +79,3 @@ Author
 Exclusive Standard Values Plugin is developed and maintained by Exclusive web marketing. Connect with us at gilbertkarogo@gmail.com.
 
 Thank you for choosing the Exclusive Standard Values Plugin. We hope it brings efficiency and consistency to your WordPress website customization!
-User
-write a readme file for a wordpress plugin. The plugin captures values form the url and modify the content(text and images) appropriately. This plugin is ideal for nitche marketing.
